@@ -1,1 +1,1 @@
-bot_token = "5445549645:AAH0xgdPpC8aah5sPDYYnSGBkzjVtyMahWU"
+bot_token = "Your telegram bot token :)"

@@ -1,0 +1,1 @@
+This is a small food parser based on the site https://povar.ru / I would like to say that some parts of the code may differ from the previous ones because it was written in different time periods. Bon appetit)
