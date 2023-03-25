@@ -1,14 +1,18 @@
 class ParserParsError(Exception):
-	pass
+    pass
+
 
 class ConnectionErrorFailed(Exception):
-	pass
+    pass
+
 
 class LoggingError(Exception):
-	pass
+    pass
+
 
 class LoggingHashError(Exception):
-	pass
+    pass
+
 
 class LoggingBeginError(Exception):
-	pass
+    pass
